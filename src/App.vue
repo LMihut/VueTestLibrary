@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <Task></Task>
   </div>
 </template>
 
