@@ -1,2 +1,2 @@
-# ML-1784-VueTestLibrary
+# VueTestLibrary
 Storybook UI Component
